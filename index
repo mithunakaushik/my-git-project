@@ -47,7 +47,7 @@
             <div class="project-card">
                 <h4>Kubernetes Cluster Management</h4>
                 <p>Managed scalable microservices architecture using Helm charts and GKE.</p>
-            </div>
+	    </div>
         </div>
     </section>
 
@@ -62,6 +62,9 @@
 </html>
 
 
+<<<<<<< HEAD
 
 This is a different line from the main branch.This is a different line from the main branch.This is a different line from the main branch.This is a different line from the main branch.
 x
+=======
+
