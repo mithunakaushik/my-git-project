@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevOps Demo Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Jane Doe | DevOps Engineer</h1>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#projects">Projects</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero" class="hero">
+        <div class="container">
+            <h2>Automating the Future.</h2>
+            <p>I build robust CI/CD pipelines, manage infrastructure as code, and ensure highly available systems.</p>
+            <button id="ctaButton">See My Work</button>
+        </div>
+    </section>
+
+    <section id="about" class="about-section">
+        <div class="container">
+            <h3>About Me</h3>
+            <p>3+ years of experience specializing in Cloud (AWS/Azure), container orchestration (Kubernetes, Docker), and scripting (Python, Bash). Passionate about monitoring and efficiency.</p>
+            <ul>
+                <li><strong>Tools:</strong> Terraform, Ansible, Git, Jenkins, Prometheus, Grafana.</li>
+                <li><strong>Languages:</strong> Python, Bash, YAML.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="projects" class="project-section">
+        <div class="container">
+            <h3>Key Projects</h3>
+            <div class="project-card">
+                <h4>Automated Deployment Pipeline</h4>
+                <p>Reduced deployment time by 80% using Jenkins and Ansible playbooks.</p>
+            </div>
+            <div class="project-card">
+                <h4>Kubernetes Cluster Management</h4>
+                <p>Managed scalable microservices architecture using Helm charts and GKE.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Jane Doe. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
